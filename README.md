@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is where the description goes.
+My name is Adrienne. This is the first 'commit-changes' I've done. Weee!
